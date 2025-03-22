@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tao Wu"
-description              : "Master's supervisor, Geographic Information Science."
+description              : "Master's supervisor, Geographic Information Science, Hunan Key Laboratory of Geospatial Big Data Mining and Application."
 repository               : "taowu-phd/taowu-giser.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tao Wu"
+  name             : "Tao Wu \n (吴涛)"
   avatar           : "images/profile.jpg"
   bio              : "Hunan Normal University"
   location         : "Changsha, China"
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0003-3455-7934"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
