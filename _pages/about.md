@@ -53,7 +53,8 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 - 彭雨龙, 胡顺石, 吴涛*. [多策略中文地址匹配方法](https://tb.chinasmp.com/CN/10.13474/j.cnki.11-2246.2022.0060). 测绘通报, 2022, 2: 145-148.
 - 吴涛, 秦建新, 曾芷萱. 一种基于时空大数据的个性化出行路径生成方法及系统(发明专利). 中国国家知识产权局, 2022, 11.
 - 吴涛, 汪璐, 秦建新*, 向隆刚, 曾芷萱. [基于众源地理数据的个性化路线服务框架及应用实验](https://d.wanfangdata.com.cn/periodical/dlxygtyj202201008). 地理与地理信息科学, 2022, 38(1): 51-56+85.
--  Tao Wu, Yuanyuan Zhu, Longgang Xiang, Jianxin Qin*, Yiliang Wan. [A topological model of trajectories with road network space](https://onlinelibrary.wiley.com/doi/10.1111/tgis.12930). Transactions in GIS, 2022, 26(4): 1847-1878. 
+-  Tao Wu, Yuanyuan Zhu, Longgang Xiang, Jianxin Qin*, Yiliang Wan. [A topological model of trajectories with road network space](https://onlinelibrary.wiley.com/doi/10.1111/tgis.12930). Transactions in GIS, 2022, 26(4): 1847-1878.
+-  Di Wu, Zhanxiu Zeng, Fengrui Shi, Weiren Yu, Tao Wu, Qiang Liu. [Human as a Service: Towards Resilient Parking Search System With Sensorless Sensing](https://ieeexplore.ieee.org/document/9658308/). IEEE Transactions on Intelligent Transportation Systems, 2022, 23(8): 13863-13877.
 
 # 👨🏻‍🎓 Students 
 
