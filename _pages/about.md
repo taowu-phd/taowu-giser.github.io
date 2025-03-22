@@ -50,14 +50,19 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 - Di Wu, Qinghua Guan, Zhe Fan, Hanhui Deng, Tao Wu*. [AutoML With Parallel Genetic Algorithm for Fast Hyperparameters Optimization in Efficient IoT Time Series Prediction](https://ieeexplore.ieee.org/document/9996560/). IEEE Transactions on Industrial Informatics, 2023, 19(9): 9555-9564.
 - Xiaolong Li, Yun Zhang, Longgang Xiang, Tao Wu. [Urban Road Lane Number Mining from Low-Frequency Floating Car Data Based on Deep Learning](https://www.mdpi.com/2220-9964/12/11/467). ISPRS International Journal of Geo-Information, 2023, 12(11): 467.
 - Yilang Wan, Yuwen Fei, Rui Jin, Tao Wu, Xinguang He. [An Object-Oriented Deep Multi-Sphere Support Vector Data Description Method for Impervious Surfaces Extraction Based on Multi-Sourced Data](https://www.mdpi.com/2220-9964/12/6/219). ISPRS International Journal of Geo-Information, 2023, 12(6): 219.
+- 彭雨龙, 胡顺石, 吴涛*. [多策略中文地址匹配方法](https://tb.chinasmp.com/CN/10.13474/j.cnki.11-2246.2022.0060). 测绘通报, 2022, 2: 145-148.
+- 吴涛, 秦建新, 曾芷萱. 一种基于时空大数据的个性化出行路径生成方法及系统(发明专利). 中国国家知识产权局, 2022, 11.
+- 吴涛, 汪璐, 秦建新*, 向隆刚, 曾芷萱. [基于众源地理数据的个性化路线服务框架及应用实验](https://d.wanfangdata.com.cn/periodical/dlxygtyj202201008). 地理与地理信息科学, 2022, 38(1): 51-56+85.
+-  Tao Wu, Yuanyuan Zhu, Longgang Xiang, Jianxin Qin*, Yiliang Wan. [A topological model of trajectories with road network space](https://onlinelibrary.wiley.com/doi/10.1111/tgis.12930). Transactions in GIS, 2022, 26(4): 1847-1878. 
 
 # 👨🏻‍🎓 Students 
 
-- 
+- Current graduate students:
+  - Yaling Hu(胡雅玲), Xinyi Lin(林心怡), Yu Peng(彭玉), Runrui Hu(胡润睿)
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
