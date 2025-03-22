@@ -41,7 +41,13 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 
 # 📝 Publications 
 
-- Tao Wu, Yaling Hu, Jianxin Qin, et al. [TPP-SAM: A Trajectory Points Prompting Segment Anything Model for Zero-shot Road Extraction from High-resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/document/10916599/). IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. <!-- **CVPR 2020** -->
+- Tao Wu, Yaling Hu, Jianxin Qin, et al. [TPP-SAM: A Trajectory Points Prompting Segment Anything Model for Zero-shot Road Extraction from High-resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/document/10916599/). IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, early access. <!-- **CVPR 2020** -->
+- Jiang Yan, Jianxin Qin, Tao Wu. [Understanding the spatiotemporal response of dockless bike-sharing travel behavior to the small outbreaks of COVID-19](https://www.sciencedirect.com/science/article/abs/pii/S0143622824002935). Applied Geography, 2025, 175: 103488.
+- Jianxin Qin, Lu Wang, Tao Wu, et al. [Indoor mobility data encoding with TSTM-in: A topological-semantic trajectory model](https://linkinghub.elsevier.com/retrieve/pii/S0198971524000437). Computers, Environment and Urban Systems, 2024, 110: 102114.
+
+# 👨🏻‍🎓 Students 
+
+- 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
