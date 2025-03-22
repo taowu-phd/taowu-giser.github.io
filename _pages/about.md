@@ -55,6 +55,7 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 - 吴涛, 汪璐, 秦建新*, 向隆刚, 曾芷萱. [基于众源地理数据的个性化路线服务框架及应用实验](https://d.wanfangdata.com.cn/periodical/dlxygtyj202201008). 地理与地理信息科学, 2022, 38(1): 51-56+85.
 -  Tao Wu, Yuanyuan Zhu, Longgang Xiang, Jianxin Qin*, Yiliang Wan. [A topological model of trajectories with road network space](https://onlinelibrary.wiley.com/doi/10.1111/tgis.12930). Transactions in GIS, 2022, 26(4): 1847-1878.
 -  Di Wu, Zhanxiu Zeng, Fengrui Shi, Weiren Yu, Tao Wu, Qiang Liu. [Human as a Service: Towards Resilient Parking Search System With Sensorless Sensing](https://ieeexplore.ieee.org/document/9658308/). IEEE Transactions on Intelligent Transportation Systems, 2022, 23(8): 13863-13877.
+-  Jianxin Qin, Wenjie Yang, Tao Wu*, Bin He, Longgang Xiang. [Incremental Road Network Update Method with Trajectory Data and UAV Remote Sensing Imagery](https://www.mdpi.com/2220-9964/11/10/502). ISPRS International Journal of Geo-Information, 2022, 11(10): 502.
 
 # 👨🏻‍🎓 Students 
 
