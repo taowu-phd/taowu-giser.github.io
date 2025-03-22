@@ -41,9 +41,12 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 
 # 📝 Publications 
 
-- Tao Wu, Yaling Hu, Jianxin Qin, et al. [TPP-SAM: A Trajectory Points Prompting Segment Anything Model for Zero-shot Road Extraction from High-resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/document/10916599/). IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, early access. <!-- **CVPR 2020** -->
-- Jiang Yan, Jianxin Qin, Tao Wu. [Understanding the spatiotemporal response of dockless bike-sharing travel behavior to the small outbreaks of COVID-19](https://www.sciencedirect.com/science/article/abs/pii/S0143622824002935). Applied Geography, 2025, 175: 103488.
-- Jianxin Qin, Lu Wang, Tao Wu, et al. [Indoor mobility data encoding with TSTM-in: A topological-semantic trajectory model](https://linkinghub.elsevier.com/retrieve/pii/S0198971524000437). Computers, Environment and Urban Systems, 2024, 110: 102114.
+- Tao Wu, Yaling Hu, Jianxin Qin*, Xinyi Lin, Yiliang Wan. [TPP-SAM: A Trajectory Points Prompting Segment Anything Model for Zero-shot Road Extraction from High-resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/document/10916599/). IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, early access. <!-- **CVPR 2020** -->
+- Jiang Yan, Jianxin Qin, Tao Wu*. [Understanding the spatiotemporal response of dockless bike-sharing travel behavior to the small outbreaks of COVID-19](https://www.sciencedirect.com/science/article/abs/pii/S0143622824002935). Applied Geography, 2025, 175: 103488.
+- Jianxin Qin, Lu Wang, Tao Wu*, Ye Li, Longgang Xiang, Yuanyuan Zhu. [Indoor mobility data encoding with TSTM-in: A topological-semantic trajectory model](https://linkinghub.elsevier.com/retrieve/pii/S0198971524000437). Computers, Environment and Urban Systems, 2024, 110: 102114.
+- Jianxin Qin, Yuan Lin, Tao Wu*, Xinyi Lin, Xiaolong Li. [A Spatio-Temporal Perspective on Commercial Vehicle Travel Patterns in Urban Environments](https://ieeexplore.ieee.org/document/10579749/). IEEE Access, 2024, 12: 91447-91461.
+- Lei Huang, Jianxin Qin, Tao Wu*. [Multisource Data Fusion With Graph Convolutional Neural Networks for Node‐Level Traffic Flow Prediction](https://onlinelibrary.wiley.com/doi/10.1155/atr/7109780). Journal of Advanced Transportation, 2024, 1: 7109780.
+- Di Wu, Qinghua Guan, Zhe Fan, Hanhui Deng, Tao Wu*. [AutoML With Parallel Genetic Algorithm for Fast Hyperparameters Optimization in Efficient IoT Time Series Prediction](https://ieeexplore.ieee.org/document/9996560/). IEEE Transactions on Industrial Informatics, 2023, 19(9): 9555-9564.
 
 # 👨🏻‍🎓 Students 
 
