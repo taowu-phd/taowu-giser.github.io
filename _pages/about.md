@@ -62,9 +62,10 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 - Current graduate students:
   - Yaling Hu(胡雅玲), Xinyi Lin(林心怡), Yu Peng(彭玉), Runrui Hu(胡润睿)
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
+- *2023.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+<!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
 - *2012.06 - 2017.06*, Land Resources Information Engineering, Wuhan University & Central South University. 
