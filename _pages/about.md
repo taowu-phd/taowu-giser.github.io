@@ -50,6 +50,8 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 -  Tao Wu, Yuanyuan Zhu, Longgang Xiang, Jianxin Qin*, Yiliang Wan. [A topological model of trajectories with road network space](https://onlinelibrary.wiley.com/doi/10.1111/tgis.12930). Transactions in GIS, 2022, 26(4): 1847-1878.
 -  Di Wu, Zhanxiu Zeng, Fengrui Shi, Weiren Yu, Tao Wu, Qiang Liu. [Human as a Service: Towards Resilient Parking Search System With Sensorless Sensing](https://ieeexplore.ieee.org/document/9658308/). IEEE Transactions on Intelligent Transportation Systems, 2022, 23(8): 13863-13877.
 -  Jianxin Qin, Wenjie Yang, Tao Wu*, Bin He, Longgang Xiang. [Incremental Road Network Update Method with Trajectory Data and UAV Remote Sensing Imagery](https://www.mdpi.com/2220-9964/11/10/502). ISPRS International Journal of Geo-Information, 2022, 11(10): 502.
+-  Jianxin Qin, Jing Qiu, Yating Chen, Tao Wu*, Longgang Xiang. [Charging Stations Selection Using a Graph Convolutional Network from Geographic Grid](https://www.mdpi.com/2071-1050/14/24/16797). Sustainability, 2022, 14(24): 16797.
+-  Yiliang Wan, Yuwen Fei, Tao Wu*, Rui Jin, Tong Xiao. [A Novel Impervious Surface Extraction Method Integrating POI, Vehicle Trajectories, and Satellite Imagery](https://ieeexplore.ieee.org/document/9511292/). IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, 14: 8804-8814.
 
 # 👨🏻‍🎓 Students 
 
@@ -57,7 +59,7 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
   - Yaling Hu(胡雅玲), Xinyi Lin(林心怡), Yu Peng(彭玉), Runrui Hu(胡润睿)
 
 # 🎖 Honors and Awards
-- *2023.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11* 胡顺石, 吴涛, 廖华, 袁名欢, 周亮. 湖南省测绘地理信息教学成果奖，二等奖. 
 
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
