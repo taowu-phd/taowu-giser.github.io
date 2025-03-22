@@ -36,6 +36,7 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 
 # 🔥 News
 - Nothing new in the near future.
+
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -47,6 +48,8 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 - Jianxin Qin, Yuan Lin, Tao Wu*, Xinyi Lin, Xiaolong Li. [A Spatio-Temporal Perspective on Commercial Vehicle Travel Patterns in Urban Environments](https://ieeexplore.ieee.org/document/10579749/). IEEE Access, 2024, 12: 91447-91461.
 - Lei Huang, Jianxin Qin, Tao Wu*. [Multisource Data Fusion With Graph Convolutional Neural Networks for Node‐Level Traffic Flow Prediction](https://onlinelibrary.wiley.com/doi/10.1155/atr/7109780). Journal of Advanced Transportation, 2024, 1: 7109780.
 - Di Wu, Qinghua Guan, Zhe Fan, Hanhui Deng, Tao Wu*. [AutoML With Parallel Genetic Algorithm for Fast Hyperparameters Optimization in Efficient IoT Time Series Prediction](https://ieeexplore.ieee.org/document/9996560/). IEEE Transactions on Industrial Informatics, 2023, 19(9): 9555-9564.
+- Xiaolong Li, Yun Zhang, Longgang Xiang, Tao Wu. [Urban Road Lane Number Mining from Low-Frequency Floating Car Data Based on Deep Learning](https://www.mdpi.com/2220-9964/12/11/467). ISPRS International Journal of Geo-Information, 2023, 12(11): 467.
+- Yilang Wan, Yuwen Fei, Rui Jin, Tao Wu, Xinguang He. [An Object-Oriented Deep Multi-Sphere Support Vector Data Description Method for Impervious Surfaces Extraction Based on Multi-Sourced Data](https://www.mdpi.com/2220-9964/12/6/219). ISPRS International Journal of Geo-Information, 2023, 12(6): 219.
 
 # 👨🏻‍🎓 Students 
 
