@@ -22,12 +22,10 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Courses**
+- Machine Learning Algorithms, Geographical Information Science, School of Geographical Sciences, spring, 2025.
+- Spatial Data Mining, Geographical Information Science, School of Geographical Sciences, spring, 2025.
+- Big Data Programming, Cartography and Geographic Information Science, School of Geographical Sciences, spring, 2025.
 </div>
 </div>
 
@@ -52,11 +50,18 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 -  Jianxin Qin, Wenjie Yang, Tao Wu*, Bin He, Longgang Xiang. [Incremental Road Network Update Method with Trajectory Data and UAV Remote Sensing Imagery](https://www.mdpi.com/2220-9964/11/10/502). ISPRS International Journal of Geo-Information, 2022, 11(10): 502.
 -  Jianxin Qin, Jing Qiu, Yating Chen, Tao Wu*, Longgang Xiang. [Charging Stations Selection Using a Graph Convolutional Network from Geographic Grid](https://www.mdpi.com/2071-1050/14/24/16797). Sustainability, 2022, 14(24): 16797.
 -  Yiliang Wan, Yuwen Fei, Tao Wu*, Rui Jin, Tong Xiao. [A Novel Impervious Surface Extraction Method Integrating POI, Vehicle Trajectories, and Satellite Imagery](https://ieeexplore.ieee.org/document/9511292/). IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021, 14: 8804-8814.
+-  Tao Wu, Pengfei Zhang, Jianxin Qin*, Di Wu, Longgang Xiang, Yiliang Wan. [A Flood-Discharge-Based Spatio-Temporal Diffusion Method for Multi-Target Traffic Hotness Construction From Trajectory Data](https://ieeexplore.ieee.org/document/9296350/). IEEE Access, 2020, 8: 225448-225462.
+-  Tao Wu, Zhixuan Zeng, Jianxin Qin*, Longgang Xiang, Yiliang Wan. [An Improved HMM-Based Approach for Planning Individual Routes Using Crowd Sourcing Spatiotemporal Data](https://www.mdpi.com/1424-8220/20/23/6938). Sensors, 2020, 20(23): 6938.
 
 # 👨🏻‍🎓 Students 
 
 - Current graduate students:
   - Yaling Hu(胡雅玲), Xinyi Lin(林心怡), Yu Peng(彭玉), Runrui Hu(胡润睿)
+
+- Awards for students
+  - *2021.12* 邱靖, 杨文杰, 朱圆瑗, 曾芷萱, 汪璐, 林媛, 黄磊. 第九届高校GIS论坛创新创业大赛，一等奖.
+  - *2020.11* 朱圆瑗, 曾芷萱, 杨文杰, 邱靖, 张鹏飞, 申慧晴, 许亚男. 第八届高校GIS论坛创新创业大赛，二等奖.
+
 
 # 🎖 Honors and Awards
 - *2023.11* 胡顺石, 吴涛, 廖华, 袁名欢, 周亮. 湖南省测绘地理信息教学成果奖，二等奖. 
