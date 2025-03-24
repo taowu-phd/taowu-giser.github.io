@@ -53,6 +53,7 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 -  Tao Wu, Pengfei Zhang, Jianxin Qin*, Di Wu, Longgang Xiang, Yiliang Wan. [A Flood-Discharge-Based Spatio-Temporal Diffusion Method for Multi-Target Traffic Hotness Construction From Trajectory Data](https://ieeexplore.ieee.org/document/9296350/). IEEE Access, 2020, 8: 225448-225462.
 -  Tao Wu, Zhixuan Zeng, Jianxin Qin*, Longgang Xiang, Yiliang Wan. [An Improved HMM-Based Approach for Planning Individual Routes Using Crowd Sourcing Spatiotemporal Data](https://www.mdpi.com/1424-8220/20/23/6938). Sensors, 2020, 20(23): 6938.
 -  Tao Wu, Jianxin Qin, Yiliang Wan*. [TOST: A Topological Semantic Model for GPS Trajectories Inside Road Networks](https://www.mdpi.com/1424-8220/20/23/6938). ISPRS International Journal of Geo-Information, 2019, 8(9): 410.
+-  吴涛, 向隆刚, 龚健雅. [路网更新的轨迹-地图匹配方法](https://html.rhhz.net/CHXB/html/2017-4-507.htm). 测绘学报, 2017, 46(4): 507-515.
 
 # 👨🏻‍🎓 Students 
 
