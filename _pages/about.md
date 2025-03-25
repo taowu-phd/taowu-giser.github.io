@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -19,7 +19,7 @@ redirect_from:
 
 I’m a researcher from School of Geographical Sciences, Hunan Normal University. My research interest includes large scale spatio-temporal trajectory data modeling and mining, machine learning and intelligent transportation systems.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">in class</div><img src='images/inclass.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">in class</div><img src='images/inclass.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Courses**
@@ -32,7 +32,7 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 # 🔥 News
 - Nothing new in the near future.
 
-# 📝 Publications 
+# 📝 Publications
 
 - Tao Wu, Yaling Hu, Jianxin Qin*, Xinyi Lin, Yiliang Wan. [TPP-SAM: A Trajectory Points Prompting Segment Anything Model for Zero-shot Road Extraction from High-resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/document/10916599/). IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, early access.
 - Jiang Yan, Jianxin Qin, Tao Wu*. [Understanding the spatiotemporal response of dockless bike-sharing travel behavior to the small outbreaks of COVID-19](https://www.sciencedirect.com/science/article/abs/pii/S0143622824002935). Applied Geography, 2025, 175: 103488.
@@ -57,7 +57,7 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 -  吴涛, 向隆刚, 龚健雅. [路网更新的轨迹-地图匹配方法](https://html.rhhz.net/CHXB/html/2017-4-507.htm). 测绘学报, 2017, 46(4): 507-515.
 -  Longgang Xiang, Tao Wu*, Dick Ettema. [An intersection‐based trajectory‐region movement study](https://onlinelibrary.wiley.com/doi/10.1111/tgis.12220). Transactions in GIS, 2017, 21(4): 701-721.
 
-# 👨🏻‍🎓 Students 
+# 👨🏻‍🎓 Students
 
 - Current graduate students:
   - Yaling Hu(胡雅玲), Xinyi Lin(林心怡), Yu Peng(彭玉), Runrui Hu(胡润睿)
@@ -68,16 +68,16 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 
 
 # 🎖 Honors and Awards
-- *2023.11* 胡顺石, 吴涛, 廖华, 袁名欢, 周亮. 湖南省测绘地理信息教学成果奖，二等奖. 
+- *2023.11* 胡顺石, 吴涛, 廖华, 袁名欢, 周亮. 湖南省测绘地理信息教学成果奖，二等奖.
 
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2012.06 - 2017.06*, Land Resources Information Engineering, Wuhan University & Central South University. 
-- *2010.09 - 2012.06*, cartography and geographic information system, Central South University. 
+- *2012.06 - 2017.06*, Land Resources Information Engineering, Wuhan University & Central South University.
+- *2010.09 - 2012.06*, cartography and geographic information system, Central South University.
 
 <!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 <!-- # 💻 Internships
