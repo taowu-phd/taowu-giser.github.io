@@ -19,7 +19,7 @@ redirect_from:
 
 I’m a researcher from School of Geographical Sciences, Hunan Normal University. My research interest includes large scale spatio-temporal trajectory data modeling and mining, machine learning and intelligent transportation systems.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">in class</div><img src='images/inclass.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Courses**
@@ -53,7 +53,9 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 -  Tao Wu, Pengfei Zhang, Jianxin Qin*, Di Wu, Longgang Xiang, Yiliang Wan. [A Flood-Discharge-Based Spatio-Temporal Diffusion Method for Multi-Target Traffic Hotness Construction From Trajectory Data](https://ieeexplore.ieee.org/document/9296350/). IEEE Access, 2020, 8: 225448-225462.
 -  Tao Wu, Zhixuan Zeng, Jianxin Qin*, Longgang Xiang, Yiliang Wan. [An Improved HMM-Based Approach for Planning Individual Routes Using Crowd Sourcing Spatiotemporal Data](https://www.mdpi.com/1424-8220/20/23/6938). Sensors, 2020, 20(23): 6938.
 -  Tao Wu, Jianxin Qin, Yiliang Wan*. [TOST: A Topological Semantic Model for GPS Trajectories Inside Road Networks](https://www.mdpi.com/1424-8220/20/23/6938). ISPRS International Journal of Geo-Information, 2019, 8(9): 410.
+-  向隆刚, 龚健雅, 吴涛, 张彩丽, 邵晓天, 王德浩, 王星星, 高萌. [轨迹数据地理关联建模与分析](https://baike.baidu.com/item/轨迹数据地理关联建模与分析/24422638). 科学出版社，北京, 2019.
 -  吴涛, 向隆刚, 龚健雅. [路网更新的轨迹-地图匹配方法](https://html.rhhz.net/CHXB/html/2017-4-507.htm). 测绘学报, 2017, 46(4): 507-515.
+-  Longgang Xiang, Tao Wu*, Dick Ettema. [An intersection‐based trajectory‐region movement study](https://onlinelibrary.wiley.com/doi/10.1111/tgis.12220). Transactions in GIS, 2017, 21(4): 701-721.
 
 # 👨🏻‍🎓 Students 
 
