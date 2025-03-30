@@ -4,11 +4,18 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_from:
-  - /teaching/
-  - /teaching.html
+  - /homework/
+  - /homework.html
 ---
 
-<!-- <span class='anchor' id='homework'></span>
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='homework'></span>
 
 I’m a researcher from School of Geographical Sciences, Hunan Normal University. My research interest includes large scale spatio-temporal trajectory data modeling and mining, machine learning and intelligent transportation systems.
 
@@ -22,15 +29,7 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 </div>
 </div>
 
-# 🔥 News
-- Nothing new in the near future. -->
-
-# <center> 📝 Homework
 
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# <center> 📝 Publications
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
