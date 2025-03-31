@@ -1,11 +1,12 @@
 ---
 permalink: /homework/
-title: "Course Homework"
+title: "Homework"
 author_profile: true
 layout: default
 ---
 
-# 📚 Course Homework
+<!-- # 📚 Course Homework -->
+# 📚 Spatial Data Mining
 
 {% for hw in site.homeworks %}
 <div class="homework-item">
