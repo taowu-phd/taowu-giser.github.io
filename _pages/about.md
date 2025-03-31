@@ -23,8 +23,8 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 <div class='paper-box-text' markdown="1">
 
 **Courses**
-- Machine Learning Algorithms, Geographical Information Science, School of Geographical Sciences, spring, 2025.
-- [Spatial Data Mining](/homework/){: .btn .btn--info}, Geographical Information Science, School of Geographical Sciences, spring, 2025.
+- [Machine Learning Algorithms](/homework/#-machine-learning-algorithms), Geographical Information Science, School of Geographical Sciences, spring, 2025.
+- [Spatial Data Mining](/homework/#-spatial-data-mining){: .btn .btn--info}, Geographical Information Science, School of Geographical Sciences, spring, 2025.
 - Big Data Programming, Cartography and Geographic Information Science, School of Geographical Sciences, spring, 2025.
 </div>
 </div>

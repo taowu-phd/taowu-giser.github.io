@@ -5,6 +5,11 @@ author_profile: true
 layout: default
 ---
 
+
+# 📚 Machine Learning Algorithms
+
+test1312312
+
 <!-- # 📚 Course Homework -->
 # 📚 Spatial Data Mining
 
