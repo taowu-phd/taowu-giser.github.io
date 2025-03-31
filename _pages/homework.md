@@ -2,6 +2,7 @@
 permalink: /homework/
 title: "Course Homework"
 author_profile: true
+layout: default
 ---
 
 # 📚 Course Homework
