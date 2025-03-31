@@ -1,6 +1,6 @@
 ---
 title: "第五次作业：距离测算"
-due_date: 2025-5-15
+due_date: 2025-05-15
 status: "Active"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "第四次作业：关联规则挖掘"
-due_date: 2025-5-8
+due_date: 2025-05-08
 status: "Active"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "第二次作业：NumPy切片 & Pandas操作"
-due_date: 2025-4-25
+due_date: 2025-04-25
 status: "Active"
 ---
 

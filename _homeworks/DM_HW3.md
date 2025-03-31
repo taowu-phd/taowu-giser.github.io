@@ -1,6 +1,6 @@
 ---
 title: "第三次作业：数据可视化"
-due_date: 2025-4-30
+due_date: 2025-04-30
 status: "Active"
 ---
 

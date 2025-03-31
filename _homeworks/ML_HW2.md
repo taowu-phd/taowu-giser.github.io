@@ -1,6 +1,6 @@
 ---
 title: 第二次作业：SVM分类算法
-due_date: 2025-4-8
+due_date: 2025-04-08
 status: "Active"
 ---
 
