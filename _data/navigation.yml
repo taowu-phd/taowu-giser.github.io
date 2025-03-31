@@ -4,7 +4,7 @@ main:
     url: "/about/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/about/#-news"
 
   - title: "Publications"
     url: "/about/#-publications"
@@ -13,10 +13,10 @@ main:
     url: "/about/#-students"
   
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/about/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/about/#-educations"
 
   # - title: "Coursework"
   #   url: "/homework/#-homework"
