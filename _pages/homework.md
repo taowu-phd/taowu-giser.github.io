@@ -29,7 +29,8 @@ layout: default
 <!-- # 📚 Course Homework -->
 # 📚 Spatial Data Mining
 
-{% assign dm_homeworks = site.homeworks | where_exp: "item", "item.path contains 'DM_'" | sort: "due_date" %}
+{% assign dm_homeworks = site.homeworks | where_exp: "item", "item.path contains 'DM_'" %}
+{% assign sorted_dm = dm_homeworks | sort_by_date %}
 {% for hw in dm_homeworks %}
 <div class="homework-item">
   <h3>{{ hw.title }}</h3>
