@@ -24,7 +24,7 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 
 **Courses**
 - Machine Learning Algorithms, Geographical Information Science, School of Geographical Sciences, spring, 2025.
-- Spatial Data Mining, Geographical Information Science, School of Geographical Sciences, spring, 2025.
+- [Spatial Data Mining](/homework/), Geographical Information Science, School of Geographical Sciences, spring, 2025.
 - Big Data Programming, Cartography and Geographic Information Science, School of Geographical Sciences, spring, 2025.
 </div>
 </div>
