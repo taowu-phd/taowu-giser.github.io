@@ -1,37 +1,24 @@
 ---
 permalink: /homework/
-title: "Homework"
-excerpt: ""
+title: "Course Homework"
 author_profile: true
-
-course:
-  - name: "Spatial Data Mining"
-  - year: 2025
-  - level: "Undergraduate
-"
 ---
 
+# 📚 Course Homework
 
-# <center> 📝 Homework
-{% for course in page.courses %}
-- **{{ course.name }}**（{{ course.year }}，{{ course.level }}）
+{% for hw in site.homeworks %}
+<div class="homework-item">
+  <h3>{{ hw.title }}</h3>
+  <div class="meta">
+    <span class="due-date">Due: {{ hw.due_date | date: "%Y-%m-%d" }}</span>
+    <span class="status">{{ hw.status }}</span>
+  </div>
+  <div class="content">
+    {{ hw.content | markdownify }}
+  </div>
+  {% if hw.attachment %}
+  <a href="{{ hw.attachment }}" class="btn btn--primary">Download Attachment</a>
+  {% endif %}
+</div>
+<hr>
 {% endfor %}
-
-## 第一次作业： NumPy基础操作
-
-[<span style="color:red; font-weight:bold">作业上传连接（点这里）</span>](https://pan.hunnu.edu.cn/u/d/7b0cac785fd5480c882e/)
-
-### 作业题：
-
-1. 创建数组`[0 1 2 3 4 5 6 7 8 9]`，并将该数组中的奇数全部都替换成-1。
-2. 创建一个4行4列的随机数组，并取出该数组的对角线上所有的元素形成一个一维数组。
-3. 取出数组`[1 2 3 4 5 6 7 8 9 10 11 12 13 14 15]`中大于等于5并小于等于10的元素作为一维数组返回。
-4. 将数组 `a = np.random.rand(3,5)` 和`b = np.random.rand(6,4)` 叠加在一起，其中`a`在`b`的上面，并且在`b`的第2列（下标从0开始）新增一列，用0来填充。
-5. 创建一个4行6列的随机数组，并取出该数组第1，2，4列上的所有元素。
-6. 创建一个8行9列的随机数组，并取出该数组第1-5行（包括第5行）的第8列内大于的所有大于3的元素。
-7. 创建一个8行9列的随机数组，按如下要求分别取出该数组中的元素：
-   * 取出第1行和第3行的数据
-   * 取出第1行到第3行的数据
-   * 取出前4列的数据
-   * 取出该数组的`(0, 0)、(1, 2)、(3, 5)`位置上的元素值
-
