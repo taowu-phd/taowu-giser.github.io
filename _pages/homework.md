@@ -8,7 +8,7 @@ layout: default
 
 # 📚 Machine Learning Algorithms
 
-{% assign ml_homeworks = site.homeworks | where_exp: "item", "item.path contains 'LM_'" | sort: "due_date" %}
+{% assign ml_homeworks = site.homeworks | where_exp: "item", "item.path contains 'ML_'" | sort: "due_date" %}
 {% for hw in ml_homeworks %}
 <div class="homework-item">
   <h3>{{ hw.title }}</h3>
