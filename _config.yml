@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pqi0iQMAAAAJ"
   email            : "taowu@hunnu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Tao-Wu-34?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -166,3 +166,6 @@ collections:
   homeworks:
     output: true
     permalink: /homework/:name/
+  homeworks_g:
+    output: true
+    permalink: /homework_g/:name/
