@@ -8,8 +8,8 @@ layout: default
 
 # 📚 Big Data Programming
 
-{% assign ml_homeworks = site.homeworks | where_exp: "item", "item.path contains 'BDP_'" | sort: "due_date" %}
-{% for hw in ml_homeworks %}
+{% assign dbp_homeworks = site.homeworks_g | where_exp: "item", "item.path contains 'BDP_'" | sort: "due_date" %}
+{% for hw in dbp_homeworks %}
 <div class="homework-item">
   <h3>{{ hw.title }}</h3>
   <div class="meta">
