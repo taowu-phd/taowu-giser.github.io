@@ -1,5 +1,5 @@
 ---
-permalink: /homework_g/
+permalink: /ghomework/
 title: "Homework_Graduate"
 author_profile: true
 layout: default
@@ -8,7 +8,7 @@ layout: default
 
 # 📚 Big Data Programming
 
-{% assign dbp_homeworks = site.homeworks_g | where_exp: "item", "item.path contains 'BDP_'" | sort: "due_date" %}
+{% assign dbp_homeworks = site.ghomeworks | where_exp: "item", "item.path contains 'BDP_'" | sort: "due_date" %}
 {% for hw in dbp_homeworks %}
 <div class="homework-item">
   <h3>{{ hw.title }}</h3>

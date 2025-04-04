@@ -166,6 +166,6 @@ collections:
   homeworks:
     output: true
     permalink: /homework/:name/
-  homeworks_g:
+  ghomeworks:
     output: true
-    permalink: /homework_g/:name/
+    permalink: /ghomework/:name/
