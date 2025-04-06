@@ -163,7 +163,7 @@ compress_html:
     envs: development
 
 # 作业
-# collections:
-#   homeworks:
-#     output: true
-#     permalink: /homework/:name/
+collections:
+  homeworks:
+    output: true
+    permalink: /homework/:name/
