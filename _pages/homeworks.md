@@ -11,7 +11,7 @@ redirect_from:
 
 # 📚 Machine Learning Algorithms
 
-{% assign ml_homeworks = site.homeworks | where_exp: "category", "ML" | sort: "due_date" %}
+{% assign ml_homeworks = site.homeworks | where: "category", "ML" | sort: "due_date" %}
 <p>Found {{ ml_homeworks.size }} machine learning homeworks</p>
 {% for hw in ml_homeworks %}
 <div class="homework-item">
