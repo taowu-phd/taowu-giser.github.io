@@ -10,5 +10,6 @@ redirect_from:
 
 
 # 📚 Machine Learning Algorithms
-{% assign ml_homeworks = site.homeworks | where: "category", "machine-learning" | sort: "due_date" %}
+
+{% assign ml_homeworks = site.homeworks | where: "category", "due_date" | sort: "due_date" %}
 <p>Found {{ ml_homeworks.size }} machine learning homeworks</p>
