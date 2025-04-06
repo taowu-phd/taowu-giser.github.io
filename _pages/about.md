@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a researcher from School of Geographical Sciences, Hunan Normal University. My research interest includes large scale spatio-temporal trajectory data modeling and mining, machine learning and intelligent transportation systems.I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=pqi0iQMAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=pqi0iQMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I’m a researcher from School of Geographical Sciences, Hunan Normal University. My research interest includes large scale spatio-temporal trajectory data modeling and mining, machine learning and intelligent transportation systems.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">in class</div><img src='images/inclass.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
