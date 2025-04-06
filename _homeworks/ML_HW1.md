@@ -1,6 +1,6 @@
 ---
 title: "第一次作业： 基础分类算法"
-due_date: 2025-2-26
+due_date: "2025-02-26"
 category: "ML"
 status: "Active"
 ---
