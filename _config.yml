@@ -124,8 +124,13 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: default
       author_profile: true
+  # # 专门为homeworks页面设置
+  # - scope:
+  #     path: "_pages/homeworks.md"
+  #   values:
+  #     layout: homeworks
+  #     author_profile: true
 
 
 # Sass/SCSS
@@ -166,4 +171,4 @@ compress_html:
 collections:
   homeworks:
     output: true
-    permalink: /homework/:name/
+    permalink: /homeworks/:name/
