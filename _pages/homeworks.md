@@ -3,9 +3,8 @@ permalink: /homeworks/
 title: "Homework"
 excerpt: ""
 author_profile: true
-layout: test
+layout: homeworks
 redirect_from:
-  - /homeworks/
   - /homeworks.html
 ---
 
