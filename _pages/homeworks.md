@@ -11,4 +11,4 @@ redirect_from:
 
 # 📚 Machine Learning Algorithms
 
-{% assign ml_homeworks = site.homeworks | where_exp: "doc", "doc.path contains '/ML/'" | sort: "due_date" %}
+
