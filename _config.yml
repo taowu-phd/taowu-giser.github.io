@@ -171,4 +171,4 @@ compress_html:
 collections:
   homeworks:
     output: true
-    permalink: /homeworks/:name/
+    permalink: /homeworks/:path/

@@ -1,7 +1,7 @@
 ---
 title: 第二次作业：SVM分类算法
 due_date: 2025-04-08
-category: machine-learning
+category: "machine-learning"
 status: "Active"
 ---
 
