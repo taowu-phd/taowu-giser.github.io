@@ -11,5 +11,5 @@ redirect_from:
 
 # 📚 Machine Learning Algorithms
 
-{% assign ml_homeworks = site.homeworks | where_exp: "homework", "homework.path contains '/ML/'" %}
+{% assign ml_homeworks = site.homeworks | where_exp: "homeworks", "homeworks.path contains '/ML/'" %}
 <p>There are {{ ml_homeworks.size }} ML homeworks.</p>
