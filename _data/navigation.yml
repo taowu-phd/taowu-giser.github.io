@@ -21,10 +21,10 @@ main:
 # homeworks links
 homeworks:
   - title: "Machine Learning Algorithms"
-    url: "homeworks/#-machine-learning-algorithms"
+    url: "../homeworks/#-machine-learning-algorithms"
 
   - title: "Spatial Data Mining"
-    url: "homeworks/#-spatial-data-mining"
+    url: "../homeworks/#-spatial-data-mining"
     
   - title: "Big Data Programming"
-    url: "ghomeworks/#-big-data-programming"
+    url: "../ghomeworks/#-big-data-programming"
