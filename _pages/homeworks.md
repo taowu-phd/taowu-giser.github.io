@@ -35,7 +35,7 @@ redirect_from:
 
 {% assign dm_homeworks = site.homeworks | where_exp: "homeworks", "homeworks.path contains '/DM/'" %}
 <p>There are {{ dm_homeworks.size }} DM homeworks.</p>
-{% for hw in ml_homeworks %}
+{% for hw in dm_homeworks %}
 <div class="homework-item">
   <h3>{{ hw.title }}</h3>
   <div class="meta">
