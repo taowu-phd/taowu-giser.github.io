@@ -17,3 +17,8 @@ main:
 
   - title: "Educations"
     url: "/about/#-educations"
+
+# homeworks links
+homeworks:
+  - title: "About Me"
+    url: "/about/#about-me"
