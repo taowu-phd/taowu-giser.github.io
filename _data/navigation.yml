@@ -1,27 +1,30 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/about/#about-me"
+    url: "/#about-me"
 
   - title: "News"
-    url: "/about/#-news"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/about/#-publications"
+    url: "/#-publications"
 
   - title: "Students"
-    url: "/about/#-students"
+    url: "/#-students"
 
   - title: "Honors and Awards"
-    url: "/about/#-honors-and-awards"
+    url: "/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/about/#-educations"
+    url: "/#-educations"
 
 # homeworks links
 homeworks:
   - title: "Machine Learning Algorithms"
-    url: "/#-machine-learning-algorithms"
+    url: "homeworks/#-machine-learning-algorithms"
 
   - title: "Spatial Data Mining"
-    url: "/#-spatial-data-mining"
+    url: "homeworks/#-spatial-data-mining"
+    
+  - title: "Big Data Programming"
+    url: "ghomeworks/#-big-data-programming"
