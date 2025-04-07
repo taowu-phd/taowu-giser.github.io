@@ -1,7 +1,7 @@
 ---
 title: 第三次作业：综合实战
 due_date: 2025-04-25
-category: "machine-learning"
+course: "machine-learning"
 status: "Active"
 ---
 
