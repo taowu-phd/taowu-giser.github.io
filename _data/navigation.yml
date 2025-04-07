@@ -21,7 +21,7 @@ main:
 # homeworks links
 homeworks:
   - title: "Machine Learning Algorithms"
-    url: "/#-machine-learning-algorithms"
+    url: "/homeworks/#-machine-learning-algorithms"
 
   - title: "Spatial Data Mining"
     url: "/#-spatial-data-mining"
