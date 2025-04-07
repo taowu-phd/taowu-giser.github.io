@@ -11,8 +11,9 @@ redirect_from:
 
 # 📚 Machine Learning Algorithms
 
-{% assign ml_files = site.static_files | where_exp: "file", "file.path contains '/ML/'" %}
-{% for file in ml_files %}
-  {% assign file_content = file.path | append: "" | file_read %}
-  <!-- 处理文件内容 -->
+{% assign ml_homeworks = site.static_files | where_exp: "file", "file.path contains '/ML/'" %}
+{% for hw in ml_homeworks %}
+<div class="homework-item">
+  <h3>{{ hw.title }}</h3>
+</div>
 {% endfor %}
