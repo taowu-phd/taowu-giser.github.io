@@ -3,7 +3,7 @@ permalink: /ghomeworks/
 title: "Homework for Graduates"
 excerpt: ""
 author_profile: true
-layout: ghomeworks
+layout: homeworks
 redirect_from:
   - /ghomeworks.html
 ---
