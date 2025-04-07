@@ -20,5 +20,8 @@ main:
 
 # homeworks links
 homeworks:
-  - title: "About Me"
-    url: "/about/#about-me"
+  - title: "Machine Learning Algorithms"
+    url: "/#-machine-learning-algorithms"
+
+  - title: "Spatial Data Mining"
+    url: "/#-spatial-data-mining"
