@@ -24,9 +24,7 @@ homeworks:
     url: "/homeworks/#-machine-learning-algorithms"
 
   - title: "Spatial Data Mining"
-    url: "/#-spatial-data-mining"
+    url: "/homeworks/#-spatial-data-mining"
 
-# ghomeworks links
-ghomeworks:    
   - title: "Big Data Programming"
-    url: "/#-big-data-programming"
+    url: "/ghomeworks/#-big-data-programming"
