@@ -11,10 +11,5 @@ redirect_from:
 
 # 📚 Machine Learning Algorithms
 
-{% assign ml_homeworks = site.static_files | where_exp: "file", "file.path contains '_homeworks/ML/'" %}
+{% assign ml_homeworks = site.homeworks | where: "course", "machine-learning" | sort: "due_date" %}
 <p>There are {{ml_homeworks.size}} homeworks.</p>
-{% for hw in ml_homeworks %}
-<div class="homework-item">
-  <h3>{{ hw.title }}</h3>
-</div>
-{% endfor %}
