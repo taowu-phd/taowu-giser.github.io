@@ -137,10 +137,12 @@ h1:before, .anchor:before {
 
     .upload {
       display: flex;
-      justify-content: left;
+      align-items: center;
+      margin: 1rem 0;
 
-      h2 {
+      .upload-label {
         margin: 0;
+        font-weight: bold;
         font-size: 1.2rem;
       }
 
