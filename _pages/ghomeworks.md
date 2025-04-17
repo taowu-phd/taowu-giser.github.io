@@ -27,7 +27,7 @@ redirect_from:
     {% endif %}
   </div>
   <div class="upload">
-    <span class="upload-label">Upload Link:</span>
+    <span class="upload-label">Upload Link：</span>
     {% if due_date > current_date %}
       <a href="{{ hw.upload_link }}" class="upload-link active-link">作业上传连接（点这里）</a>
     {% else %}
