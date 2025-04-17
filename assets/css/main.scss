@@ -134,4 +134,26 @@ h1:before, .anchor:before {
         color: #B02318;
       }
     }
+
+    .upload {
+      display: flex;
+      justify-content: space-between;
+
+      h2 {
+        margin: 0;
+        font-size: 1.2rem;
+      }
+
+      .upload-link {
+        &.active-link {
+          color: #B02318;
+        }
+
+        &.disabled-link {
+          color: #999;
+          text-decoration: line-through;
+          pointer-events: none; // 防止点击
+        }
+      }
+    }
 }

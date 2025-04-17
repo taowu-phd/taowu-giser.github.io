@@ -26,10 +26,12 @@ redirect_from:
       <span class="status status-closed"> closed </span>
     {% endif %}
   </div>
-  <div>
+  <div class="upload">
     <h2>Upload Link:</h2>
     {% if due_date > current_date %}
-      <a href="{{ hw.upload_link }}" style="color:red; font-weight:bold">作业上传连接（点这里）</a>
+      <a href="{{ hw.upload_link }}" class="upload-link active-link">作业上传连接（点这里）</a>
+    {% else %}
+      <span class="upload-link disabled-link">英雄请明年再来</span>
     {% endif %}
   </div>
 </div>
