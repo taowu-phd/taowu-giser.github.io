@@ -13,11 +13,13 @@ redirect_from:
 
 {% assign ml_homeworks = site.homeworks | where_exp: "homeworks", "homeworks.path contains '/ML/'" %}
 <p>There are {{ ml_homeworks.size }} ML homeworks.</p>
+{% assign current_date = site.time | date: "%s" %}
 {% for hw in ml_homeworks %}
+{% assign due_date = hw.due_date | date: "%s" %}
 <div class="homework-item">
   <h3>{{ hw.title }}</h3>
   <div class="meta">
-    <span class="due-date">Due: {{ hw.due_date | date: "%Y-%m-%d" }}</span>
+    <span class="due-date">Due: {{ due_date | date: "%Y-%m-%d" }}</span>
     {% if due_date > current_date %}
       <span class="status status-active"> active </span>
     {% else %}
@@ -39,11 +41,13 @@ redirect_from:
 
 {% assign dm_homeworks = site.homeworks | where_exp: "homeworks", "homeworks.path contains '/DM/'" %}
 <p>There are {{ dm_homeworks.size }} DM homeworks.</p>
+{% assign current_date = site.time | date: "%s" %}
 {% for hw in dm_homeworks %}
+{% assign due_date = hw.due_date | date: "%s" %}
 <div class="homework-item">
   <h3>{{ hw.title }}</h3>
   <div class="meta">
-    <span class="due-date">Due: {{ hw.due_date | date: "%Y-%m-%d" }}</span>
+    <span class="due-date">Due: {{ due_date | date: "%Y-%m-%d" }}</span>
     {% if due_date > current_date %}
       <span class="status status-active"> active </span>
     {% else %}
