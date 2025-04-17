@@ -23,7 +23,7 @@ redirect_from:
     {% if due_date > current_date %}
       <span class="status"> active </span>
     {% else %}
-      <span class="status"> closed </span>
+      <span class="status status-closed"> closed </span>
     {% endif %}
   </div>
 </div>
