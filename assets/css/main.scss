@@ -124,8 +124,14 @@ h1:before, .anchor:before {
       }
       
       .status {
-        color: #28a745;
         font-weight: bold;
+      }
+
+      .status-active{
+        color: #28a745;
+      }
+      .status-closed{
+        color: #B02318;
       }
     }
 }
