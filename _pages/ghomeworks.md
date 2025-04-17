@@ -34,5 +34,11 @@ redirect_from:
       <span class="upload-link disabled-link">英雄请明年再来</span>
     {% endif %}
   </div>
+  <div class="content">
+    {{ hw.content | markdownify }}
+  </div>
+  {% if hw.attachment %}
+  <a href="{{ hw.attachment }}" class="btn btn--primary">Download Attachment</a>
+  {% endif %}
 </div>
 {% endfor %}
