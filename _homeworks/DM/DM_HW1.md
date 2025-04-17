@@ -1,8 +1,7 @@
 ---
 title: "第一次作业： NumPy基础操作"
-category: "DM"
-due_date: 2025-03-10
-status: "Active"
+course: "data-mining"
+due_date: "2025-03-10"
 ---
 
 ## Upload Links

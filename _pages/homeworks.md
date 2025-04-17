@@ -18,7 +18,11 @@ redirect_from:
   <h3>{{ hw.title }}</h3>
   <div class="meta">
     <span class="due-date">Due: {{ hw.due_date | date: "%Y-%m-%d" }}</span>
-    <span class="status">{{ hw.status }}</span>
+    {% if due_date > current_date %}
+      <span class="status status-active"> active </span>
+    {% else %}
+      <span class="status status-closed"> closed </span>
+    {% endif %}
   </div>
   <div class="content">
     {{ hw.content | markdownify }}
@@ -40,7 +44,11 @@ redirect_from:
   <h3>{{ hw.title }}</h3>
   <div class="meta">
     <span class="due-date">Due: {{ hw.due_date | date: "%Y-%m-%d" }}</span>
-    <span class="status">{{ hw.status }}</span>
+    {% if due_date > current_date %}
+      <span class="status status-active"> active </span>
+    {% else %}
+      <span class="status status-closed"> closed </span>
+    {% endif %}
   </div>
   <div class="content">
     {{ hw.content | markdownify }}

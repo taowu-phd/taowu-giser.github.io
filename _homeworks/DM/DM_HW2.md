@@ -1,8 +1,7 @@
 ---
 title: "第二次作业：NumPy切片 & Pandas操作"
-due_date: 2025-04-25
-category: "DM"
-status: "Active"
+due_date: "2025-04-25"
+course: "data-mining"
 ---
 
 ## Upload Links

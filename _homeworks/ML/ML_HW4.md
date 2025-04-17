@@ -1,8 +1,7 @@
 ---
-title: 第三次作业：综合实战
-due_date: 2025-04-25
+title: "第四次作业：回归分析"
+due_date: "2025-04-25"
 course: "machine-learning"
-status: "Active"
 ---
 
 ## Upload Links

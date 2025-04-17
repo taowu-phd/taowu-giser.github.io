@@ -1,8 +1,7 @@
 ---
 title: "第三次作业：数据可视化"
-due_date: 2025-04-30
-category: "DM"
-status: "Active"
+due_date: "2025-04-30"
+course: "data-mining"
 ---
 
 ## Upload Links

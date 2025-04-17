@@ -1,8 +1,7 @@
 ---
 title: "第五次作业：距离测算"
-due_date: 2025-05-15
-category: "DM"
-status: "Active"
+due_date: "2025-05-15"
+course: "data-mining"
 ---
 
 ## Upload Links
