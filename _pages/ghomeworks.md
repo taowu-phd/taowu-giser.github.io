@@ -22,8 +22,10 @@ redirect_from:
     <span class="due-date">Due: {{ due_date | date: "%Y-%m-%d" }}</span>
     {% if due_date > current_date %}
       <span class="status status-active"> active </span>
+      <h2>Upload Link:</h2>
     {% else %}
       <span class="status status-closed"> closed </span>
+      <h2>Upload Link:</h2>
     {% endif %}
   </div>
 </div>
