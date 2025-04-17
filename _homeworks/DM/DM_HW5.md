@@ -2,11 +2,8 @@
 title: "第五次作业：距离测算"
 due_date: "2025-05-15"
 course: "data-mining"
+upload_link: "https://pan.hunnu.edu.cn/u/d/00f65c0252f4445e8cdc/"
 ---
-
-## Upload Links
-
-[<span style="color:red; font-weight:bold">作业上传连接（点这里）</span>](https://pan.hunnu.edu.cn/u/d/00f65c0252f4445e8cdc/)
 
 ## Exercise Requirements
 1. 假设我们有一份红酒13特征维度的数据（`wine.zip`），请选择合适距离或相似度计算方法考察数据的相似性。

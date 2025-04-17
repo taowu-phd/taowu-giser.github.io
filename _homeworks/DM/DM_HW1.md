@@ -2,11 +2,8 @@
 title: "第一次作业： NumPy基础操作"
 course: "data-mining"
 due_date: "2025-03-10"
+upload_link: "https://pan.hunnu.edu.cn/u/d/7b0cac785fd5480c882e/"
 ---
-
-## Upload Links
-
-[<span style="color:red; font-weight:bold">作业上传连接（点这里）</span>](https://pan.hunnu.edu.cn/u/d/7b0cac785fd5480c882e/)
 
 ## Exercise Requirements
 1. 创建数组`[0 1 2 3 4 5 6 7 8 9]`，并将该数组中的奇数全部都替换成-1。

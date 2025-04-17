@@ -2,11 +2,8 @@
 title: "第一次作业： 基础分类算法"
 due_date: "2025-02-26"
 course: "machine-learning"
+upload_link: "https://pan.hunnu.edu.cn/u/d/1003f90835614cd398df/"
 ---
-
-## Upload Links
-
-[<span style="color:red; font-weight:bold">作业上传连接（点这里）</span>](https://pan.hunnu.edu.cn/u/d/1003f90835614cd398df/)
 
 ## Exercise Requirements
 1. 使用KNN对红酒数据进行分类（`wine`）。

@@ -26,6 +26,14 @@ redirect_from:
       <span class="status status-closed"> closed </span>
     {% endif %}
   </div>
+  <div class="upload">
+    <span class="upload-label">Upload Link：</span>
+    {% if due_date > current_date %}
+      <a href="{{ hw.upload_link }}" class="upload-link active-link">作业上传连接（点这里）</a>
+    {% else %}
+      <span class="upload-link disabled-link">英雄请明年再来</span>
+    {% endif %}
+  </div>
   <div class="content">
     {{ hw.content | markdownify }}
   </div>
@@ -52,6 +60,14 @@ redirect_from:
       <span class="status status-active"> active </span>
     {% else %}
       <span class="status status-closed"> closed </span>
+    {% endif %}
+  </div>
+  <div class="upload">
+    <span class="upload-label">Upload Link：</span>
+    {% if due_date > current_date %}
+      <a href="{{ hw.upload_link }}" class="upload-link active-link">作业上传连接（点这里）</a>
+    {% else %}
+      <span class="upload-link disabled-link">英雄请明年再来</span>
     {% endif %}
   </div>
   <div class="content">

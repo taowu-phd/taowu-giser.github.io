@@ -2,11 +2,8 @@
 title: "第三次作业：数据可视化"
 due_date: "2025-04-30"
 course: "data-mining"
+upload_link: "https://pan.hunnu.edu.cn/u/d/2db7c59a0b5f415997c0/"
 ---
-
-## Upload Links
-
-[<span style="color:red; font-weight:bold">作业上传连接（点这里）</span>](https://pan.hunnu.edu.cn/u/d/2db7c59a0b5f415997c0/)
 
 ## Exercise Requirements
 1. 折线图练习

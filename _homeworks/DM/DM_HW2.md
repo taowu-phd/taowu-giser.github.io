@@ -2,11 +2,8 @@
 title: "第二次作业：NumPy切片 & Pandas操作"
 due_date: "2025-04-25"
 course: "data-mining"
+upload_link: "https://pan.hunnu.edu.cn/u/d/20b3cf78169a47ac8d69/"
 ---
-
-## Upload Links
-
-[<span style="color:red; font-weight:bold">作业上传连接（点这里）</span>](https://pan.hunnu.edu.cn/u/d/20b3cf78169a47ac8d69/)
 
 ## Exercise Requirements
 1. 创建一个所有值都是False的布尔型数组（shape自定义）。
