@@ -2,7 +2,7 @@
 title: "第五次作业：距离测算"
 due_date: "2025-05-15"
 course: "data-mining"
-upload_link: "https://pan.hunnu.edu.cn/u/d/00f65c0252f4445e8cdc/"
+upload_link: "https://pan.hunnu.edu.cn/u/d/95ef6c9e22ff422aad87/"
 ---
 
 ## Exercise Requirements

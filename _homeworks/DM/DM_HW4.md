@@ -2,7 +2,7 @@
 title: "第四次作业：关联规则挖掘"
 due_date: "2025-05-08"
 course: "data-mining"
-upload_link: "https://pan.hunnu.edu.cn/u/d/f2f4d979665c40dbad1e/"
+upload_link: "https://pan.hunnu.edu.cn/u/d/18d3892371c2406b965c/"
 ---
 
 ## Exercise Requirements
