@@ -35,6 +35,7 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 
 # 📝 Publications
 
+- 吴涛, 秦建新, 汪璐, 万义良. 一种面向室内场景语义的移动对象轨迹大数据压缩方法(发明专利). 中国国家知识产权局, 2025, 7.
 - Tao Wu, Yaling Hu, Jianxin Qin*, Xinyi Lin, Yiliang Wan. [TPP-SAM: A Trajectory Points Prompting Segment Anything Model for Zero-shot Road Extraction from High-resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/document/10916599/). IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18: 8845-8864.
 - Yan Jiang, Jianxin Qin, Tao Wu*. [Understanding the spatiotemporal response of dockless bike-sharing travel behavior to the small outbreaks of COVID-19](https://www.sciencedirect.com/science/article/abs/pii/S0143622824002935). Applied Geography, 2025, 175: 103488.
 - Jianxin Qin, Lu Wang, Tao Wu*, Ye Li, Longgang Xiang, Yuanyuan Zhu. [Indoor mobility data encoding with TSTM-in: A topological-semantic trajectory model](https://linkinghub.elsevier.com/retrieve/pii/S0198971524000437). Computers, Environment and Urban Systems, 2024, 110: 102114.
