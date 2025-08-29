@@ -24,9 +24,9 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 <div class='paper-box-text' markdown="1">
 
 **Courses**
-- [Machine Learning Algorithms](/homeworks/#-machine-learning-algorithms){: .btn .btn--info}, Geographical Information Science, School of Geographical Sciences, spring, 2025.
-- [Spatial Data Mining](/homeworks/#-spatial-data-mining){: .btn .btn--info}, Geographical Information Science, School of Geographical Sciences, spring, 2025.
-- [Big Data Programming](/ghomeworks/#-big-data-programming){: .btn .btn--info}, Cartography and Geographic Information Science, School of Geographical Sciences, spring, 2025.
+- [Object Oriented Programming](/homeworks/#-object-oriented-programming){: .btn .btn--info}, Geographical Information Science, School of Geographical Sciences, fall, 2025.
+- [Artificial Intelligence](/homeworks/#-artificial-intelligence){: .btn .btn--info}, Geographical Information Science, School of Geographical Sciences, fall, 2025.
+<!-- - [Big Data Programming](/ghomeworks/#-big-data-programming){: .btn .btn--info}, Cartography and Geographic Information Science, School of Geographical Sciences, spring, 2025. -->
 </div>
 </div>
 

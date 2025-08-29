@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 
-# 📚 Machine Learning Algorithms
+# 📚 Object Oriented Programming
 
-{% assign ml_homeworks = site.homeworks | where_exp: "homeworks", "homeworks.path contains '/ML/'" %}
-<p>There are {{ ml_homeworks.size }} ML homeworks.</p>
+{% assign oop_homeworks = site.homeworks | where_exp: "homeworks", "homeworks.path contains '/OOP/'" %}
+<p>There are {{ oop_homeworks.size }} OOP homeworks.</p>
 {% assign current_date = site.time | date: "%s" %}
-{% for hw in ml_homeworks %}
+{% for hw in oop_homeworks %}
 {% assign due_date = hw.due_date | date: "%s" %}
 <div class="homework-item">
   <h3>{{ hw.title }}</h3>
@@ -45,12 +45,12 @@ redirect_from:
 {% endfor %}
 
 
-# 📚 Spatial Data Mining
+# 📚 Artificial Intelligence
 
-{% assign dm_homeworks = site.homeworks | where_exp: "homeworks", "homeworks.path contains '/DM/'" %}
-<p>There are {{ dm_homeworks.size }} DM homeworks.</p>
+{% assign ai_homeworks = site.homeworks | where_exp: "homeworks", "homeworks.path contains '/AI/'" %}
+<p>There are {{ ai_homeworks.size }} AI homeworks.</p>
 {% assign current_date = site.time | date: "%s" %}
-{% for hw in dm_homeworks %}
+{% for hw in ai_homeworks %}
 {% assign due_date = hw.due_date | date: "%s" %}
 <div class="homework-item">
   <h3>{{ hw.title }}</h3>
