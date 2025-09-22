@@ -69,7 +69,10 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 # 👨🏻‍🎓 Students
 
 - Current graduate students:
-  - Yaling Hu(胡雅玲), Xinyi Lin(林心怡), Yu Peng(彭玉), Runrui Hu(胡润睿)
+  - Xinyi Lin(林心怡), Yu Peng(彭玉), Runrui Hu(胡润睿), Qingyu Tan(谭青宇)
+
+- Graduated students:
+  - Yaling Hu(胡雅玲)
 
 - Awards for students
   - *2021.12* 邱靖, 杨文杰, 朱圆瑗, 曾芷萱, 汪璐, 林媛, 黄磊. 第九届高校GIS论坛创新创业大赛，一等奖.
