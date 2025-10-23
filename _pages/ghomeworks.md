@@ -11,7 +11,7 @@ redirect_from:
 
 # 📚 GIS Software Applications
 
-{% assign bdp_homeworks = site.homeworks | where_exp: "homeworks", "homeworks.path contains '/GSA/'" %}
+{% assign gsa_homeworks = site.homeworks | where_exp: "homeworks", "homeworks.path contains '/GSA/'" %}
 <p>There are {{ gsa_homeworks.size }} GSA homeworks.</p>
 {% assign current_date = site.time | date: "%s" %}
 {% for hw in gsa_homeworks %}
