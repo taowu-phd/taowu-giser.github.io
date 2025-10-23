@@ -20,11 +20,11 @@ main:
 
 # homeworks links
 homeworks:
-  - title: "Machine Learning Algorithms"
-    url: "/homeworks/#-machine-learning-algorithms"
+  - title: "Object Oriented Programming"
+    url: "/homeworks/#-oriented-object-programming"
 
-  - title: "Spatial Data Mining"
-    url: "/homeworks/#-spatial-data-mining"
+  - title: "Artificial Intelligence"
+    url: "/homeworks/#-artificial-intelligence"
 
-  - title: "Big Data Programming"
-    url: "/ghomeworks/#-big-data-programming"
+  - title: "GIS Software Applications"
+    url: "/ghomeworks/#-gis-software-applications"
