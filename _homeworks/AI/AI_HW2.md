@@ -1,8 +1,8 @@
 ---
 title: "第二次作业： 个人主题报告"
-due_date: "2025-12-20"
+due_date: "2025-12-26"
 course: "artificial-intelligence"
-upload_link: "https://pan.hunnu.edu.cn/u/d/a8587f9badc0477380b0/"
+upload_link: "https://pan.hunnu.edu.cn/u/d/059bbb5da2a8455e9fe8/"
 ---
 
 ## Exercise Requirements
