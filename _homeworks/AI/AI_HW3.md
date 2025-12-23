@@ -1,5 +1,5 @@
 ---
-title: "第二次作业： 个人主题报告"
+title: "大作业： 个人主题报告"
 due_date: "2026-01-08"
 course: "artificial-intelligence"
 upload_link: "https://pan.hunnu.edu.cn/u/d/e71c6bd3bb1d43ee932a/"
