@@ -36,6 +36,7 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 
 # 📝 Publications
 - Tao Wu, Xinyi Lin, Jianxin Qin*, Qianqian Deng. [Self-supervised Graph Learning for OD Flow Semantic Awareness: Harnessing High-order Relationships via Trajectory Chains and POI Contexts](https://www.sciencedirect.com/science/article/pii/S0968090X25004371). Transportation Research Part C: Emerging Technologies, 2026, 183: 105433.
+- Jianxin Qin, Ye Li, Yating Chen, Tao Wu*, Jin Qiu. [Constructing electric vehicle charging station network with graph convolutional networks and space syntax analysis](https://www.tandfonline.com/doi/full/10.1080/03081060.2026.2616540). Transportation Planning and Technology, 2026.
 - 吴涛, 秦建新, 汪璐, 万义良. 一种面向室内场景语义的移动对象轨迹大数据压缩方法(发明专利). 中国国家知识产权局, 2025, 7.
 - Tao Wu, Yaling Hu, Jianxin Qin*, Xinyi Lin, Yiliang Wan. [TPP-SAM: A Trajectory Points Prompting Segment Anything Model for Zero-shot Road Extraction from High-resolution Remote Sensing Imagery](https://ieeexplore.ieee.org/document/10916599/). IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18: 8845-8864.
 - Yan Jiang, Jianxin Qin, Tao Wu*. [Understanding the spatiotemporal response of dockless bike-sharing travel behavior to the small outbreaks of COVID-19](https://www.sciencedirect.com/science/article/abs/pii/S0143622824002935). Applied Geography, 2025, 175: 103488.
