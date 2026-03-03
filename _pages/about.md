@@ -24,10 +24,11 @@ I’m a researcher from School of Geographical Sciences, Hunan Normal University
 <div class='paper-box-text' markdown="1">
 
 **Courses**
-- [Object Oriented Programming](/homeworks/#-object-oriented-programming){: .btn .btn--info}, Geographical Information Science, School of Geographical Sciences, fall, 2025.
-- [Artificial Intelligence](/homeworks/#-artificial-intelligence){: .btn .btn--info}, Geographical Information Science, School of Geographical Sciences, fall, 2025.
-- [GIS Software Applications](/ghomeworks/#-gis-software-applications){: .btn .btn--info}, Physical Geography, School of Geographical Sciences, fall, 2025.
-<!-- - [Big Data Programming](/ghomeworks/#-big-data-programming){: .btn .btn--info}, Cartography and Geographic Information Science, School of Geographical Sciences, spring, 2025. -->
+<!-- - [Object Oriented Programming](/homeworks/#-object-oriented-programming){: .btn .btn--info}, Geographical Information Science, School of Geographical Sciences, fall, 2025. -->
+<!-- - [Artificial Intelligence](/homeworks/#-artificial-intelligence){: .btn .btn--info}, Geographical Information Science, School of Geographical Sciences, fall, 2025. -->
+<!-- - [GIS Software Applications](/ghomeworks/#-gis-software-applications){: .btn .btn--info}, Physical Geography, School of Geographical Sciences, fall, 2025. -->
+- [Machine Learning](/homeworks/#-machine-learning){: .btn .btn--info}, Cartography and Geographic Information Science, School of Geographical Sciences, spring, 2026.
+- [Big Data Programming (graduate student)](/ghomeworks/#-big-data-programming){: .btn .btn--info}, Cartography and Geographic Information Science, School of Geographical Sciences, spring, 2026.
 </div>
 </div>
 
