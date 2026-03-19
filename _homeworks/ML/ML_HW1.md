@@ -2,7 +2,7 @@
 title: "第一次作业：数据处理基础练习"
 due_date: "2026-03-21"
 course: "machine-learning"
-upload_link: "https://pan.hunnu.edu.cn/u/d/02dcd7a5260548f4bf15/"
+upload_link: "https://pan.hunnu.edu.cn/u/d/0957332b427c4362b083/"
 ---
 
 ## Exercise Requirements
