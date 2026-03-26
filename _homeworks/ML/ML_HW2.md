@@ -2,7 +2,7 @@
 title: "第二次作业：数据可视化基础练习"
 due_date: "2026-03-27"
 course: "machine-learning"
-upload_link: "https://pan.hunnu.edu.cn/u/d/f6d4dd15aa7b4c39a79c/"
+upload_link: "https://pan.hunnu.edu.cn/u/d/52c7236f88154118baa5/"
 ---
 
 ## Exercise Requirements
