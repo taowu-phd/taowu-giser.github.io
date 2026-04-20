@@ -1,8 +1,8 @@
 ---
-title: "第三次作业：关联规则挖掘"
-due_date: "2026-04-12"
-course: "machine-learning"
-upload_link: "https://pan.hunnu.edu.cn/u/d/6a359f14ff8f4a8d899d/"
+title: "第四次作业：关联规则挖掘"
+due_date: "2026-04-22"
+course: "big-data-programing"
+upload_link: "https://pan.hunnu.edu.cn/u/d/68543c52184642d48240/"
 ---
 
 ## Exercise Requirements
@@ -26,3 +26,4 @@ upload_link: "https://pan.hunnu.edu.cn/u/d/6a359f14ff8f4a8d899d/"
    2. 假设你是城市交通管理部门的顾问，基于这 3 条规则，提出具体的交通疏导或预警系统优化建议。
 
 数据集位置：https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
